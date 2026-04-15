@@ -13,6 +13,9 @@
 
 #### **Задачи**:
 
+
+#### С **баг-репортами** можно ознакомиться [здесь](https://docs.google.com/spreadsheets/d/1p22h-UMbukmyQkqVs7ZA3UdtP4yRNSJJjFq-jofiVYM/edit?usp=sharing)
+
 ---
 
 <a name="project2"></a>
